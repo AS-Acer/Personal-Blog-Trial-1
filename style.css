@@ -156,8 +156,16 @@ nav {
 	height: 100%;
 }
 
+.colorless{
+    text-decoration: none;
+	color: hsl(0 0% 98%);
+	font-weight: 400;
+	padding: 0.5rem 1rem;
+	border-radius: 100px;
+	font-size: 20px;
+}
 
-nav a {
+.nava {
 	text-decoration: none;
 	background: hsl(211, 30%, 28%);
 	color: hsl(0 0% 98%);
